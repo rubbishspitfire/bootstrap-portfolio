@@ -1,6 +1,35 @@
-.card {
-    border: 1px solid #000000;
-    background: #ff0000;
-    padding: 20px;
-    margin-bottom: 10px;
+.name{
+    width: 250px;
+    height: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: center;
+}
+
+h3 {
+
+
+
+}
+
+.mr-auto {
+
+}
+
+body {
+    background-image: url("./images/white-waves.png");
+
+}
+
+.contianer {
+    background: #f8f9fa;
+}
+
+.col-sm-3 {
+    text-align: center;
+}
+.nav-link {
+    text-decoration: none;
 }
